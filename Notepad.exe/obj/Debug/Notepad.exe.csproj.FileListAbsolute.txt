@@ -1,0 +1,13 @@
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\bin\Debug\Notepad.exe.exe.config
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\bin\Debug\Notepad.exe.exe
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\bin\Debug\Notepad.exe.pdb
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.csprojAssemblyReference.cache
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.Form1.resources
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.Properties.Resources.resources
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.csproj.GenerateResource.cache
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.csproj.CoreCompileInputs.cache
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.csproj.CopyComplete
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.exe
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\obj\Debug\Notepad.exe.pdb
+C:\Users\Visua\source\repos\Notepad.exe\Notepad.exe\bin\Debug\theme.dll
